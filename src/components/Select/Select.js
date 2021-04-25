@@ -14,7 +14,7 @@ const Wrapper = styled.div`
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 16px;
+  font-size: ${16 / 16}rem;
   line-height: 19px;
 `;
 
